@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentuelete",
+        "uuid": 4920620,
+        "checksum": "4gpm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
